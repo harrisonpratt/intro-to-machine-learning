@@ -1,1 +1,1 @@
-[![Open In Colab](https://raw.githubusercontent.com/harrisonpratt/intro-to-machine-learning/refs/heads/main/Capstone_4_DS201.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisonpratt/intro-to-machine-learning/blob/main/Capstone_4_DS201.ipynb)
